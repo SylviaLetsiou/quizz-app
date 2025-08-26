@@ -1,16 +1,23 @@
-# quizz-app
+# Quiz App
 
-A Flutter quiz app with question cards and true/false buttons, featuring real-time scoring and a results screen.
+A Flutter quiz app that displays questions on cards. Users answer each question using True or False buttons, and the app keeps track of the score. 
+Designed as a portfolio project to showcase Flutter UI, state management, and interactivity.
+
+## Features
+
+- Question cards displayed one at a time
+- True and False answer buttons
+- Real-time scoring
+- Final results screen
+- Simple and clean Flutter UI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android Emulator or a connected device
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/quiz-app.git
