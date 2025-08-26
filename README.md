@@ -1,4 +1,4 @@
-# my_resume_app
+# quizz-app
 
 A new Flutter project.
 
