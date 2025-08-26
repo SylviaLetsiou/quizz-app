@@ -1,6 +1,6 @@
 # quizz-app
 
-A new Flutter project.
+A Flutter quiz app with question cards and true/false buttons, featuring real-time scoring and a results screen.
 
 ## Getting Started
 
